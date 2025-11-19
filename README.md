@@ -13,12 +13,12 @@ A real-time skin analysis system that uses computer vision to detect skin condit
 ## Installation
 
 1. **Install required packages:**
-   \\\ash
+
    pip install -r requirements.txt
    \\\
 
 2. **Run the application:**
-   \\\ash
+   
    python smart_mirror_skin_check.py
    \\\
 
@@ -62,4 +62,5 @@ ai-skin-analysis/
 - Implement skin hydration analysis
 - Add historical tracking of skin health
 - Mobile app version
+
 
